@@ -2,14 +2,14 @@
 
 **steps:**
 * Create repo in Github
- Clone repo in local laptop
- Start developing
- Add the files to temp area
+* Clone repo in local laptop
+*  Start developing
+*  Add the files to temp area
 
- git add <file-name>
+*  git add <file-name>
 
- Commit the changes
+*  Commit the changes
 
- git commit -m "why-you-committed"
+* git commit -m why-you-committed"
 
- push the changes to GitHub/Central repo
+* push the changes to GitHub/Central repo
