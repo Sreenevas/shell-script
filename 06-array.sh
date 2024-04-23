@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MOVIES("tholiprema" "balu" "badri")
+MOVIES=("tholiprema" "balu" "badri")
 
 # size of above array is 3
 #index starts from 0,1,2
