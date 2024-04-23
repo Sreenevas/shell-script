@@ -1,9 +1,9 @@
 #!/bin/bash
 
-Person1=Dande # no space between =
+Person1=Pavan # no space between =
 Person2=Raj
 
-echo "Dande:Hello Raj how are you?"
-echo "Raj:I am doing good, thanks for asking. How are you?"
-echo "Dande:I am fine, I am learning devops How is your job?"
-echo "Raj: My job is good but not much hike this time"
+echo "$Person1:Hello Raj how are you?"
+echo "$Person2:I am doing good, thanks for asking. How are you?"
+echo "$Person1:I am fine, I am learning devops How is your job?"
+echo "$Person2: My job is good but not much hike this time"
